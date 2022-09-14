@@ -1,0 +1,29 @@
+# Domain
+|     | Type   | URL |
+| --- | --- | --- |
+| 1 | Free |  [centralops](https://centralops.net/co/DomainDossier.aspx) |
+| 2 | Free |  [domainbigdata](https://domainbigdata.com/) |
+| 3 | Free |  [whoxy](https://www.whoxy.com/whois-history/) |
+| 4 | Free |  [domainiq](https://www.domainiq.com/snapshot_history) |
+| 5 | Free |  [archive](https://archive.ph/) |
+| 6 | Free |  [seoreviewtools](https://www.seoreviewtools.com/valuable-backlinks-checker/) |
+| 7 | Free |  [reddit](https://www.reddit.com/domain/website.com/) |
+| 8 | Free |  [whoisrequest](https://whoisrequest.com/history/) |
+| 9 | Free |  [cutestat](https://www.cutestat.com/) |
+| 10 | Free |  [whoisology](https://whoisology.com/) |
+| 11 | Free |  [viewdns](https://viewdns.info/) |
+| 12 | Free |  [Google](https://www.google.com/alerts) |
+| 13 | Free |  [followthatpage](https://followthatpage.com/) |
+| 14 | Free |  [visualping](https://visualping.io/) |
+| 15 | Free |  [crt.sh](http://crt.sh/) |
+| 16 | Free |  [pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) |
+| 17 | Free |  [pentest-tools](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) |
+| 18 | Free |  [SharedCount](https://www.sharedcount.com/) |
+| 19 | Free |  [smallseotools](https://smallseotools.com/backlink-checker/) |
+| 20 | Free |  [iknowwhatyoudownload](https://iknowwhatyoudownload.com/en/peer/) |
+| 21 | Free |  [visualsitemapper](http://www.visualsitemapper.com/) |
+| 22 | Free |  [similarweb](https://www.similarweb.com/) |
+| 23 | Free |  [semrush](https://www.semrush.com/) |
+| 24 | Free |  [builtwith](https://builtwith.com/) |
+| 25 | Free |  [wappalyzer](https://www.wappalyzer.com/) |
+| 26 | Free |  [Securityheaders](https://securityheaders.com/) |
