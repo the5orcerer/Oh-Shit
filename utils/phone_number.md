@@ -1,6 +1,6 @@
 # Phone Numbers
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [truecaller](https://www.truecaller.com/) |
-| 2 | Free |  [calleridtest](https://calleridtest.com/) |
-| 3 | Free |  [infobel](https://www.infobel.com/) |
+|     | Type   | URL | Status |
+| --- | --- | --- | ---|
+| 1 | Phone number search engine |  [truecaller](https://www.truecaller.com/) | Some services may apply charge | 
+| 2 | Unknown |  [calleridtest](https://calleridtest.com/) | Unknown |
+| 3 | A database about phone numbers |  [infobel](https://www.infobel.com/) | Free | 
