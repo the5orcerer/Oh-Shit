@@ -1,16 +1,14 @@
 # Maps
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [Google](https://www.google.com/maps/) |
-| 2 | Free |  [Bing](https://www.bing.com/maps) |
-| 3 | Free |  [Yandex](https://yandex.com/maps/) |
-| 4 | Free |  [Duckduckgo](https://duckduckgo.com/) |
-| 5 | Free |  [Sentinel Hub Playground](http://apps.sentinel-hub.com/sentinel-playground) |
-| 6 | Free |  [mobility](https://mobility.portal.geops.io/) |
-| 7 | Free |  [mapchannels](http://data.mashedworld.com/dualmaps/map.htm) |
-| 8 | Free |  [Mapillary](https://www.mapillary.com/) |
-| 9 | Free |  [kartaview](https://kartaview.org/landing) |
-| 10 | Free |  [openstreetmap](https://www.openstreetmap.org/) |
-| 11 | Free |  [wikimapia](http://wikimapia.org/) |
-| 12 | Free |  [cityprotect](https://cityprotect.com/map/) |
-| 13 | Free |  [Transit Visualisation Client](https://tracker.geops.ch/) |
+|     | Description   | URL | Status |
+| --- | --- | --- | ---|
+| 1 | Google maps |  [Google](https://maps.google.com/) | Free |
+| 2 | Bing maps |  [Bing](https://www.bing.com/maps) | Free |
+| 3 | Yandex maps |  [Yandex](https://yandex.com/maps/) | Free |
+| 4 | Duckduckgo search engine |  [Duckduckgo](https://duckduckgo.com/) | Free |
+| 5 | Sentinel map |  [Sentinel Hub Playground](http://apps.sentinel-hub.com/sentinel-playground) | Free |
+| 6 | Live time train tracker |  [mobility](https://mobility.portal.geops.io/) | Free |
+| 7 | Double map in one screen |  [mapchannels](http://data.mashedworld.com/dualmaps/map.htm) | Free |
+| 8 | Live time camera coverage street view map |  [Mapillary](https://www.mapillary.com/) | Some services may apply charges |
+| 9 | Live time camera street view map |  [kartaview](https://kartaview.org/landing) | Some services may apply charges |
+| 10 | Just street map |  [openstreetmap](https://www.openstreetmap.org/) | Free |
+| 11 | City based map |  [cityprotect](https://cityprotect.com/map/) | Free |
