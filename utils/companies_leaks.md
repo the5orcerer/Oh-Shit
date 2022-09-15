@@ -1,5 +1,5 @@
 # Companies Leaks
-|     | Type   | URL | Status
+|     | Description   | URL | Status
 | --- | --- | --- | --- | 
 | 1 | Companies Data Breach |  [cryptome](https://cryptome.org/) | Free |
 | 2 | Companies Leaks |  [wikileaks](https://wikileaks.org/) |  Free |
