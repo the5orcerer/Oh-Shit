@@ -1,5 +1,5 @@
 # Database Breach search
-|     | Type   | URL | Status |
+|     | Description   | URL | Status |
 | --- | --- | --- | ---| 
 | 1 | Email data breach |  [haveibeenpwned](https://haveibeenpwned.com/) | Free |
 | 2 | Data breach search engine |  [snusbase](https://snusbase.com/) | Some services may apply charge |
