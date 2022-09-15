@@ -1,11 +1,10 @@
 # Usernames
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [namechk](https://namechk.com/) |
-| 2 | Free |  [whatsmyname](https://whatsmyname.app/) |
-| 3 | Free |  [namecheckup](https://namecheckup.com/) |
-| 4 | Free |  [checkusernames](https://checkusernames.com/) |
-| 5 | Free |  [namecheckr](https://www.namecheckr.com/) |
-| 6 | Free |  [usersearch](https://usersearch.org/) |
-| 7 | Free |  [Kik](http://kik.me/username/) |
-| 8 | Free |  [http://kik.me/username/ [edit the username]](http://kik.me/username/%20%5bedit%20the%20username%5d) |
+|     | Description   | URL | Status |
+| --- | --- | --- | ---|
+| 1 | Social Media account finder |  [namechk](https://namechk.com/) | Free |
+| 2 | Username search engine |  [whatsmyname](https://whatsmyname.app/) | Free |
+| 3 | Username finder |  [namecheckup](https://namecheckup.com/) | Free |
+| 4 | Username search engine |  [checkusernames](https://checkusernames.com/) | Free |
+| 5 | Search engine for unames |  [namecheckr](https://www.namecheckr.com/) | Free |
+| 6 | Search engine for everyinformation |  [usersearch](https://usersearch.org/) | Free |
+
