@@ -1,5 +1,5 @@
 # Dating
-|     | Type   | URL | Status |
+|     | Description   | URL | Status |
 | --- | --- | --- | ---|
 | 1 | Dating stie |  [pof](https://www.pof.com/) | Free | 
 | 2 | An online free and safe dating site |  [ashleymadison](https://www.ashleymadison.com/) | Free |
