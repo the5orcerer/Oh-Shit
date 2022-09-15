@@ -1,5 +1,5 @@
 # OSINT Tools & websites
-|     | Type   | URL | Type |
+|     | Description   | URL | Type |
 | --- | --- | --- | ---|
 | 1 | Unknown |  [Bellingcat](http://bit.ly/bcattools) | Unknown |
 | 2 | Huge list of osint tools |  [osintessentials](https://www.osintessentials.com/) | Free |
