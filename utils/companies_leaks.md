@@ -1,10 +1,10 @@
 # Companies Leaks
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [cryptome](https://cryptome.org/) |
-| 2 | Free |  [wikileaks](https://wikileaks.org/plusd/?qproject%5b%5d=ps&qproject%5b%5d=cg&qproject%5b%5d=cc&qproject%5b%5d=fp&qproject%5b%5d=ee&q=#result) |
-| 3 | Free |  [occrp](https://data.occrp.org/) |
-| 4 | Free |  [opencorporates](https://opencorporates.com/) |
-| 5 | Free |  [corporationwiki](https://www.corporationwiki.com/) |
-| 6 | Free |  [aihitdata](https://www.aihitdata.com/) |
-| 7 | Free |  [infobel](https://www.infobel.com/) |
+|     | Type   | URL | Status
+| --- | --- | --- | --- | 
+| 1 | Companies Data Breach |  [cryptome](https://cryptome.org/) | Free |
+| 2 | Companies Leaks |  [wikileaks](https://wikileaks.org/) |  Free |
+| 3 | Corporet companies information |  [occrp](https://data.occrp.org/) | Free | 
+| 4 | Information about corporat companies |  [opencorporates](https://opencorporates.com/) | Free |
+| 5 | Wiki for corporat world |  [corporationwiki](https://www.corporationwiki.com/) | Free |
+| 6 | A large database for companies |  [aihitdata](https://www.aihitdata.com/) | Some services may apply charge |
+| 7 | Simple company index databse |  [infobel](https://www.infobel.com/) | Free |
