@@ -1,43 +1,29 @@
-# Reverse Image Search
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [Google Images](https://images.google.com/) |
-| 2 | Free |  [Bing Images](https://www.bing.com/images) |
-| 3 | Free |  [Yandex Images](https://yandex.com/images/) |
-| 4 | Free |  [TinyEye](https://www.tineye.com/) |
-| 5 | Free |  [fotoforensics](https://fotoforensics.com/) |
-| 6 | Free |  [geoguessr](https://www.geoguessr.com/) |
-| 7 | Free |  [stolencamerafinder](https://www.stolencamerafinder.com/) |
-| 8 | Free |  [29a.ch](https://29a.ch/photo-forensics/) |
-| 9 | Free |  [remove](https://www.remove.bg/) |
-| 10 | Free |  [exifdata](http://exifdata.com/) |
-| 11 | Free |  [storiesdown](https://storiesdown.com/) |
-| 12 | Free |  [instadp](https://www.instadp.com/) |
-| 13 | Free |  [intelx](https://intelx.io/tools?tab=image) |
-| 14 | Free |  [pimeyes](https://pimeyes.com/en) |
-| 15 | Free |  [betaface](https://betaface.com/) |
-| 16 | Free |  [InVID-WeVerify](https://www.invid-project.eu/) |
-| 17 | Free |  [Google Lens / Desktop](https://lens.google.com/search?p=) |
-| 18 | Free |  [SunCalc.org](http://suncalc.org/) |
-| 19 | Free |  [metadata2go](https://www.metadata2go.com/) |
-| 20 | Free |  [Reveal Image Verification Assistant](http://reveal-mklab.iti.gr/reveal/index.html) |
-| 21 | Free |  [ExifPurge](http://www.exifpurge.com/) |
-| 22 | Free |  [fdupes](https://github.com/adrianlopezroche/fdupes) |
-| 23 | Free |  [FotoForensics](http://fotoforensics.com/) |
-| 24 | Free |  [Forensically Image Forensics](http://29a.ch/photo-forensics/#level-sweep) |
-| 25 | Free |  [Irfanview](http://irfanview.com/) |
-| 26 | Free |  [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) |
-| 27 | Free |  [jhead](https://www.sentex.ca/~mwandel/jhead/) |
-| 28 | Free |  [RenRot](https://github.com/andy-shev/RenRot) |
-| 29 | Free |  [SpiderPig](http://github.com/hatlord/Spiderpig) |
-| 30 | Free |  [Splunk](http://blog.sweepatic.com/metadata-hackers-best-friend) |
-| 31 | Free |  [VGG Face Finder (VFF) Engine](http://robots.ox.ac.uk/~vgg/software/vff/) |
-| 32 | Free |  [PimEyes](https://pimeyes.com/en) |
-| 33 | Free |  [VGG Image Classification (VIC) Engine](http://www.robots.ox.ac.uk/~vgg/software/vic/) |
-| 34 | Free |  [VGG Image Search Engine (VISE)](http://robots.ox.ac.uk/~vgg/software/vise) |
-| 35 | Free |  [Wolfram|Alpha](http://wolframalpha.com/) |
-| 36 | Free |  [PureRef](https://www.pureref.com/index.php) |
-| 37 | Free |  [Sensity](https://platform.sensity.ai/deepfake-detection) |
-| 38 | Free |  [https://search4faces.com/tt00/index.html](https://search4faces.com/tt00/index.html) |
-| 39 | Free |  [https://cleanup.pictures/](https://cleanup.pictures/) |
-| 40 | Free |  [https://calculator.ipvm.com/](https://calculator.ipvm.com/) |
+# Search Engines
+
+|     | Type                    | URL                                                                                      | Description                                                                                                               |
+| --- | ----------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Free                    | [Google](https://www.google.com/)                                                       | The world's most popular search engine.                                                                                  |
+| 2   | Free                    | [Google Advanced Search](https://www.google.com/advanced_search)                         | Access advanced search features on Google.                                                                               |
+| 3   | Free                    | [Google Guide](https://www.googleguide.com/print/adv_op_ref.pdf)                        | A guide to using advanced options in Google search.                                                                    |
+| 4   | Free                    | [Bing](https://www.bing.com/)                                                           | Microsoft's search engine, providing web search results.                                                                |
+| 5   | Free                    | [Bing Search Operators](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a) | Learn how to use advanced search keywords on Bing.                                                                      |
+| 6   | Free                    | [Baidu](https://www.baidu.com/)                                                         | China's leading search engine, offering web search services.                                                            |
+| 7   | Free                    | [DuckDuckGo](https://duckduckgo.com/)                                                 | A privacy-focused search engine that doesn't track your searches.                                                       |
+| 8   | Free                    | [DuckDuckGo Guide](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)  | A guide to using syntax for enhanced searching on DuckDuckGo.                                                           |
+| 9   | Free                    | [Yandex](https://yandex.com/)                                                           | A Russian search engine providing various online services.                                                              |
+| 10  | Free                    | [2lingual](https://www.2lingual.com/)                                                  | Multilingual search engine that retrieves results from multiple languages.                                              |
+| 11  | Free                    | [SearchEngineColossus](https://www.searchenginecolossus.com/)                           | A directory of search engines from around the world.                                                                    |
+| 12  | Free                    | [YouGotTheNews](https://yougotthenews.com/)                                            | A news search engine that helps you find recent news articles.                                                           |
+| 13  | Unknown                 | [FultonHistory](https://fultonhistory.com/Fulton.html)                                 | Historical newspaper search, availability unknown.                                                                      |
+| 14  | Free                    | [ChroniclingAmerica](https://chroniclingamerica.loc.gov/)                               | Access historical American newspapers and digitized content.                                                             |
+| 15  | Free                    | [Google News](https://news.google.com/newspapers?hl=en)                                 | Google's newspaper search feature for current news articles.                                                            |
+| 16  | Free                    | [NewspaperArchive](https://newspaperarchive.com/)                                      | Explore a vast collection of historical newspapers and articles.                                                        |
+| 17  | Free                    | [IntelX](https://intelx.io/tools?tab=general)                                          | A search engine focused on providing intelligence data.                                                                 |
+| 18  | Free                    | [BVSG](http://bvsg.org/)                                                               | A search engine for business-related information.                                                                       |
+| 19  | Free                    | [Qwant](https://www.qwant.com/)                                                       | A privacy-respecting search engine that protects your data.                                                              |
+| 20  | Free                    | [NerdyData](https://www.nerdydata.com/)                                                | Search for source code and other technical data on the web.                                                             |
+| 21  | Free                    | [ZoomEye](https://www.zoomeye.org/)                                                    | A search engine for discovering vulnerabilities in devices and systems.                                                 |
+| 22  | Free                    | [Google Custom Search](https://cse.google.com/cse/all)                                  | Create customized search engines powered by Google.                                                                    |
+| 23  | Unknown                 | [Shodan Exploits](https://exploits.shodan.io/welcome)                                  | A platform for searching for and analyzing IoT and other devices. Availability unknown.                                |
+| 24  | Free                    | [Shodan](https://www.shodan.io/)                                                       | A search engine for discovering internet-connected devices and their vulnerabilities.                                  |
+| 25  | Free                    | [SearchFTPS](https://www.searchftps.net/)                                              | Search for FTP servers and their contents.                                                                             |
