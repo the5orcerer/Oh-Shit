@@ -17,3 +17,4 @@
 | 14 | Free |  [h-supertools](https://h-supertools.com/email/email-bulk-validation) |
 | 15 | Free |  [myemailverifier](https://myemailverifier.com/) |
 | 16 | Free |  [epieos](https://epieos.com/) |
+| 17 | Free |  [Predicta Search](https://www.predictasearch.com/) |
