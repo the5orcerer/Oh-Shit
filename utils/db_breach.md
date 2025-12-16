@@ -12,3 +12,5 @@
 | 9 | Subdomain data breach |  [psbdmp](https://psbdmp.ws/) | Free | 
 | 10 | Password db |  [dehashed](https://www.dehashed.com/) | Some services may apply charge | 
 | 11 | Db for username, email and phones |  [breachdirectory](https://breachdirectory.org/) | Some services may apply charge |
+| 12 | Infostealer malware infection check |  [hudsonrock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Free |
+
