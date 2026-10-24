@@ -9,20 +9,18 @@
 | 6 | Free |  [exportcomments](https://exportcomments.com/) |
 | 7 | Free |  [Twitter advanced](https://twitter.com/search-advanced) |
 | 8 | Free |  [foller.me](https://foller.me/) |
-| 9 | Free |  [tweetbeaver](https://tweetbeaver.com/) |
-| 10 | Free |  [allmytweets](https://www.allmytweets.net/connect/) |
-| 11 | Free |  [followeraudit](https://www.followeraudit.com/) |
-| 12 | Free |  [tweetdeck](https://tweetdeck.twitter.com/) |
-| 13 | Free |  [socialbearing](https://socialbearing.com/) |
-| 14 | Free |  [twitonomy](http://www.twitonomy.com/) |
-| 15 | Free |  [spoonbill](https://spoonbill.io/) |
-| 16 | Free |  [tweettopicexplorer](http://tweettopicexplorer.neoformix.com/#n=cyber_sudo) |
-| 17 | Free |  [mentionmapp](https://mentionmapp.com/) |
-| 18 | Free |  [sleepingtime](http://sleepingtime.org/) |
-| 19 | Free |  [tinfoleak](https://tinfoleak.com/) |
-| 20 | Free |  [skypeipresolver](http://www.skypeipresolver.net/) |
-| 21 | Free |  [Facebook ](https://www.facebook.com/ads/library/) |
-| 22 | Free |  [fb-sleep-stats ](https://github.com/sqren/fb-sleep-stats) |
-| 23 | Free |  [sowsearch](https://www.sowsearch.info/) |
-| 24 | Free |  [intelx.io](https://intelx.io/tools?tab=facebook) |
-| 25 | Free |  [Lookup ID](https://lookup-id.com/) |
+| 9 | Free |  [followeraudit](https://www.followeraudit.com/) |
+| 10 | Free |  [tweetdeck](https://tweetdeck.twitter.com/) |
+| 11 | Free |  [twitonomy](http://www.twitonomy.com/) |
+| 12 | Free |  [spoonbill](https://spoonbill.io/) |
+| 13 | Free |  [tweettopicexplorer](http://tweettopicexplorer.neoformix.com/#n=cyber_sudo) |
+| 14 | Free |  [mentionmapp](https://mentionmapp.com/) |
+| 15 | Free |  [sleepingtime](http://sleepingtime.org/) |
+| 16 | Free |  [tinfoleak](https://tinfoleak.com/) |
+| 17 | Free |  [skypeipresolver](http://www.skypeipresolver.net/) |
+| 18 | Free |  [Facebook ](https://www.facebook.com/ads/library/) |
+| 19 | Free |  [fb-sleep-stats ](https://github.com/sqren/fb-sleep-stats) |
+| 20 | Free |  [sowsearch](https://www.sowsearch.info/) |
+| 21 | Free |  [intelx.io](https://intelx.io/tools?tab=facebook) |
+| 22 | Free |  [Lookup ID](https://lookup-id.com/) |
+| 23 | Free |  [twtdata X trends archive](https://twtdata.com/twitter-trends/) |
