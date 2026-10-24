@@ -1,7 +1,10 @@
 # Dating
-|     | Description   | URL | Status |
-| --- | --- | --- | ---|
-| 1 | Dating stie |  [pof](https://www.pof.com/) | Free | 
-| 2 | An online free and safe dating site |  [ashleymadison](https://www.ashleymadison.com/) | Free |
-| 3 | Huge network for dating |  [tinder](https://tinder.com/@username) | Some service may charge |
-| 4 | Dating site |  [affiny](https://www.affiny.co.uk/) | Free 
+
+Public-profile discovery resources for dating platforms. Treat this category as high-privacy and high-risk.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Plenty of Fish (POF) | https://www.pof.com/ | Free | Public dating platform profiles (where visible). |
+| Ashley Madison | https://www.ashleymadison.com/ | Paid | Dating platform lookup context; handle with strict legal/ethical review. |
+| Tinder Profile URL Pattern | https://tinder.com/@username | Free | Public profile pattern for known Tinder usernames. |
+| Affiny | https://www.affiny.co.uk/ | Free | UK-focused dating platform. |

@@ -1,10 +1,12 @@
 # Usernames
-|     | Description   | URL | Status |
-| --- | --- | --- | ---|
-| 1 | Social Media account finder |  [namechk](https://namechk.com/) | Free |
-| 2 | Username search engine |  [whatsmyname](https://whatsmyname.app/) | Free |
-| 3 | Username finder |  [namecheckup](https://namecheckup.com/) | Free |
-| 4 | Username search engine |  [checkusernames](https://checkusernames.com/) | Free |
-| 5 | Search engine for unames |  [namecheckr](https://www.namecheckr.com/) | Free |
-| 6 | Search engine for every information |  [usersearch](https://usersearch.org/) | Some services may apply charges |
 
+Resources for identifying or correlating public usernames across platforms.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Namechk | https://namechk.com/ | Free | Checks username availability across popular services. |
+| WhatsMyName | https://whatsmyname.app/ | Free | Username enumeration across many websites. |
+| Namecheckup | https://namecheckup.com/ | Free | Username and social profile lookup. |
+| Check Usernames | https://checkusernames.com/ | Free | Multi-site username checker. |
+| Namecheckr | https://www.namecheckr.com/ | Free | Username and domain availability checks. |
+| UserSearch | https://usersearch.org/ | Freemium | Aggregated people/username search pivot tool. |
