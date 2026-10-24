@@ -1,10 +1,13 @@
-# Companies Leaks
-|     | Description   | URL | Status
-| --- | --- | --- | --- | 
-| 1 | Companies Data Breach |  [cryptome](https://cryptome.org/) | Free |
-| 2 | Companies Leaks |  [wikileaks](https://wikileaks.org/) |  Free |
-| 3 | Corporet companies information |  [occrp](https://data.occrp.org/) | Free | 
-| 4 | Information about corporat companies |  [opencorporates](https://opencorporates.com/) | Free |
-| 5 | Wiki for corporat world |  [corporationwiki](https://www.corporationwiki.com/) | Free |
-| 6 | A large database for companies |  [aihitdata](https://www.aihitdata.com/) | Some services may apply charge |
-| 7 | Simple company index databse |  [infobel](https://www.infobel.com/) | Free |
+# Companies and Leaks
+
+Corporate intelligence and leak-related research resources. Validate provenance and legal boundaries before use.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Cryptome | https://cryptome.org/ | Free | Archive of leaked/governmental and corporate documents. |
+| WikiLeaks | https://wikileaks.org/ | Free | Leak publication archive and search. |
+| OCCRP Aleph/Data | https://data.occrp.org/ | Free | Investigative database for entities, people, and documents. |
+| OpenCorporates | https://opencorporates.com/ | Freemium | Global corporate registry and company records. |
+| CorporationWiki | https://www.corporationwiki.com/ | Free | U.S.-focused company relationship lookup. |
+| AIHitData | https://www.aihitdata.com/ | Freemium | Company profile and business intelligence index. |
+| Infobel | https://www.infobel.com/ | Freemium | Company and directory intelligence data source. |

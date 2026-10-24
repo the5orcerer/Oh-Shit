@@ -1,6 +1,9 @@
 # Phone Numbers
-|     | Description   | URL | Status |
-| --- | --- | --- | ---|
-| 1 | Phone number search engine |  [truecaller](https://www.truecaller.com/) | Some services may apply charge | 
-| 2 | Unknown |  [calleridtest](https://calleridtest.com/) | Unknown |
-| 3 | A database about phone numbers |  [infobel](https://www.infobel.com/) | Free | 
+
+Phone-number lookup and caller context resources.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Truecaller | https://www.truecaller.com/ | Freemium | Caller identity lookup and spam classification. |
+| CallerIDTest | https://calleridtest.com/ | Unknown | Phone caller-ID lookup utility (verify region support). |
+| Infobel | https://www.infobel.com/ | Freemium | Directory lookup with phone-related records. |

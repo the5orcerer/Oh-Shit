@@ -1,7 +1,10 @@
 # Documents
-|     | Description   | URL | Status |
-| --- | --- | --- | ---|
-| 1 | Databse for pdf and online documents |  [yumpu](https://www.yumpu.com/) | Free | 
-| 2 | Db for infograph, documents, pdf etc |  [pdfslide](https://pdfslide.net/) | Free | 
-| 3 | Search engine for famous books |  [scribd](https://www.scribd.com/) | Some services may apply charge |
-| 4 | ALl type of document search engine |  [findpdfdoc](http://www.findpdfdoc.com/) | Free | 
+
+Resources for discovering publicly available documents and publications.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Yumpu | https://www.yumpu.com/ | Free | Searchable document hosting platform. |
+| PDFSlide | https://pdfslide.net/ | Free | Public document and slide index. |
+| Scribd | https://www.scribd.com/ | Freemium | Large digital documents and books platform. |
+| FindPDFDoc | http://www.findpdfdoc.com/ | Free | PDF/document-focused search engine. |

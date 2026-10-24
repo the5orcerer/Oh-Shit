@@ -1,16 +1,18 @@
-# Database Breach search
-|     | Description   | URL | Status |
-| --- | --- | --- | ---| 
-| 1 | Email data breach |  [haveibeenpwned](https://haveibeenpwned.com/) | Free |
-| 2 | Data breach search engine |  [snusbase](https://snusbase.com/) | Some services may apply charge |
-| 3 | Password data breach |  [pwdquery](https://pwdquery.xyz/) | Free |
-| 4 | Search engine for breached data |  [intelx](https://intelx.io/) | Free |
-| 5 | Search engine |  [ghostproject](https://ghostproject.fr/) | Some services may apply charge |
-| 6 | Breached records |  [leakpeek](https://leakpeek.com/) | Some services may apply charge |
-| 7 | Huge index of emails and passwords |  [spycloud](https://spycloud.com/check-your-exposure/) | Free |
-| 8 | Email data breach |  [avast](https://www.avast.com/hackcheck/friends-check) | Free | 
-| 9 | Subdomain data breach |  [psbdmp](https://psbdmp.ws/) | Free | 
-| 10 | Password db |  [dehashed](https://www.dehashed.com/) | Some services may apply charge | 
-| 11 | Db for username, email and phones |  [breachdirectory](https://breachdirectory.org/) | Some services may apply charge |
-| 12 | Infostealer malware infection check |  [hudsonrock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Free |
+# Database Breach
 
+Breach-monitoring and exposure-check resources. Use only for authorized defensive or investigative work.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Have I Been Pwned | https://haveibeenpwned.com/ | Free | Email/phone breach exposure checks. |
+| Snusbase | https://snusbase.com/ | Paid | Breach dataset search platform. |
+| PwdQuery | https://pwdquery.xyz/ | Free | Password breach lookup utility. |
+| Intelligence X | https://intelx.io/ | Freemium | Multi-source search including breach-related data. |
+| GhostProject | https://ghostproject.fr/ | Paid | Breached account search service. |
+| LeakPeek | https://leakpeek.com/ | Paid | Breach record search and exposure lookup. |
+| SpyCloud Exposure Check | https://spycloud.com/check-your-exposure/ | Free | Consumer exposure check interface. |
+| Avast Hack Check | https://www.avast.com/hackcheck/friends-check | Free | Breach check utility by Avast. |
+| PSBDMP | https://psbdmp.ws/ | Free | Paste and dump indexing service. |
+| DeHashed | https://www.dehashed.com/ | Paid | Breach and credential data search platform. |
+| BreachDirectory | https://breachdirectory.org/ | Paid | Search portal for breached identity data. |
+| Hudson Rock Cybercrime Tools | https://www.hudsonrock.com/threat-intelligence-cybercrime-tools | Free | Infostealer infection and exposure checks. |

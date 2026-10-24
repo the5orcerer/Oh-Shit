@@ -1,29 +1,32 @@
-# Domain
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [centralops](https://centralops.net/co/DomainDossier.aspx) |
-| 2 | Free |  [domainbigdata](https://domainbigdata.com/) |
-| 3 | Free |  [whoxy](https://www.whoxy.com/whois-history/) |
-| 4 | Free |  [domainiq](https://www.domainiq.com/snapshot_history) |
-| 5 | Free |  [archive](https://archive.ph/) |
-| 6 | Free |  [seoreviewtools](https://www.seoreviewtools.com/valuable-backlinks-checker/) |
-| 7 | Free |  [reddit](https://www.reddit.com/domain/website.com/) |
-| 8 | Free |  [whoisrequest](https://whoisrequest.com/history/) |
-| 9 | Free |  [cutestat](https://www.cutestat.com/) |
-| 10 | Free |  [whoisology](https://whoisology.com/) |
-| 11 | Free |  [viewdns](https://viewdns.info/) |
-| 12 | Free |  [Google](https://www.google.com/alerts) |
-| 13 | Free |  [followthatpage](https://followthatpage.com/) |
-| 14 | Free |  [visualping](https://visualping.io/) |
-| 15 | Free |  [crt.sh](http://crt.sh/) |
-| 16 | Free |  [pentest-tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) |
-| 17 | Free |  [pentest-tools](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) |
-| 18 | Free |  [SharedCount](https://www.sharedcount.com/) |
-| 19 | Free |  [smallseotools](https://smallseotools.com/backlink-checker/) |
-| 20 | Free |  [iknowwhatyoudownload](https://iknowwhatyoudownload.com/en/peer/) |
-| 21 | Free |  [visualsitemapper](http://www.visualsitemapper.com/) |
-| 22 | Free |  [similarweb](https://www.similarweb.com/) |
-| 23 | Free |  [semrush](https://www.semrush.com/) |
-| 24 | Free |  [builtwith](https://builtwith.com/) |
-| 25 | Free |  [wappalyzer](https://www.wappalyzer.com/) |
-| 26 | Free |  [Securityheaders](https://securityheaders.com/) |
+# Domains
+
+Domain and website intelligence resources for ownership, infrastructure, and technology profiling.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| CentralOps Domain Dossier | https://centralops.net/co/DomainDossier.aspx | Free | Domain and DNS/WHOIS lookup. |
+| DomainBigData | https://domainbigdata.com/ | Free | WHOIS and domain history search. |
+| Whoxy WHOIS History | https://www.whoxy.com/whois-history/ | Freemium | Historical WHOIS data and ownership changes. |
+| DomainIQ Snapshot History | https://www.domainiq.com/snapshot_history | Paid | Domain history and ownership intelligence. |
+| archive.ph | https://archive.ph/ | Free | Archived snapshots of web pages. |
+| SEOReviewTools Backlink Checker | https://www.seoreviewtools.com/valuable-backlinks-checker/ | Free | Backlink discovery and SEO pivoting. |
+| Reddit Domain Search | https://www.reddit.com/domain/website.com/ | Free | Find Reddit posts referencing a domain. |
+| WhoisRequest History | https://whoisrequest.com/history/ | Freemium | Historical WHOIS lookup tool. |
+| CuteStat | https://www.cutestat.com/ | Free | Basic site analytics and profile data. |
+| Whoisology | https://whoisology.com/ | Freemium | WHOIS and registrant intelligence search. |
+| ViewDNS.info | https://viewdns.info/ | Free | DNS, IP, reverse lookup, and ASN tools. |
+| Google Alerts | https://www.google.com/alerts | Free | Change monitoring for keywords and domains. |
+| Follow That Page | https://followthatpage.com/ | Freemium | Page change monitoring utility. |
+| Visualping | https://visualping.io/ | Freemium | Website change detection and alerts. |
+| crt.sh | http://crt.sh/ | Free | Certificate transparency search for subdomains. |
+| Pentest-Tools Subdomain Finder | https://pentest-tools.com/information-gathering/find-subdomains-of-domain | Freemium | Subdomain enumeration helper. |
+| Pentest-Tools Website Scanner | https://pentest-tools.com/website-vulnerability-scanning/website-scanner | Freemium | Surface-level security scanning utility. |
+| SharedCount | https://www.sharedcount.com/ | Freemium | Social engagement count for URLs. |
+| SmallSEOTools Backlink Checker | https://smallseotools.com/backlink-checker/ | Free | Backlink intelligence and competitor analysis. |
+| IKnowWhatYouDownload | https://iknowwhatyoudownload.com/en/peer/ | Free | IP-based torrent exposure indicator (use cautiously). |
+| VisualSiteMapper | http://www.visualsitemapper.com/ | Free | Visual map generation for websites. |
+| Similarweb | https://www.similarweb.com/ | Freemium | Website traffic and market intelligence. |
+| Semrush | https://www.semrush.com/ | Paid | SEO/traffic intelligence platform. |
+| BuiltWith | https://builtwith.com/ | Freemium | Website technology stack detection. |
+| Wappalyzer | https://www.wappalyzer.com/ | Freemium | Technology fingerprinting for websites. |
+| SecurityHeaders | https://securityheaders.com/ | Free | Security header assessment for web domains. |

@@ -1,26 +1,29 @@
 # Social Media
-|     | Type   | URL |
-| --- | --- | --- |
-| 1 | Free |  [snapchat map](https://map.snapchat.com/) |
-| 2 | Free |  [codeofaninja](https://tools.codeofaninja.com/find-instagram-user-id) |
-| 3 | Free |  [imginn](https://imginn.com/) |
-| 4 | Free |  [instadp](https://www.instadp.com/) |
-| 5 | Free |  [reddit analyser](https://reddit-user-analyser.netlify.app/) |
-| 6 | Free |  [exportcomments](https://exportcomments.com/) |
-| 7 | Free |  [Twitter advanced](https://twitter.com/search-advanced) |
-| 8 | Free |  [foller.me](https://foller.me/) |
-| 9 | Free |  [followeraudit](https://www.followeraudit.com/) |
-| 10 | Free |  [tweetdeck](https://tweetdeck.twitter.com/) |
-| 11 | Free |  [twitonomy](http://www.twitonomy.com/) |
-| 12 | Free |  [spoonbill](https://spoonbill.io/) |
-| 13 | Free |  [tweettopicexplorer](http://tweettopicexplorer.neoformix.com/#n=cyber_sudo) |
-| 14 | Free |  [mentionmapp](https://mentionmapp.com/) |
-| 15 | Free |  [sleepingtime](http://sleepingtime.org/) |
-| 16 | Free |  [tinfoleak](https://tinfoleak.com/) |
-| 17 | Free |  [skypeipresolver](http://www.skypeipresolver.net/) |
-| 18 | Free |  [Facebook ](https://www.facebook.com/ads/library/) |
-| 19 | Free |  [fb-sleep-stats ](https://github.com/sqren/fb-sleep-stats) |
-| 20 | Free |  [sowsearch](https://www.sowsearch.info/) |
-| 21 | Free |  [intelx.io](https://intelx.io/tools?tab=facebook) |
-| 22 | Free |  [Lookup ID](https://lookup-id.com/) |
-| 23 | Free |  [twtdata X trends archive](https://twtdata.com/twitter-trends/) |
+
+Tools and references for public social-media analysis and account research.
+
+| Tool | URL | Access | Notes |
+| --- | --- | --- | --- |
+| Snapchat Map | https://map.snapchat.com/ | Free | Public geospatial view of Snapchat stories where available. |
+| Instagram User ID Finder | https://tools.codeofaninja.com/find-instagram-user-id | Free | Resolves numeric Instagram account IDs. |
+| Imginn | https://imginn.com/ | Unknown | Third-party Instagram viewer; verify reliability and terms. |
+| InstaDP | https://www.instadp.com/ | Free | Instagram display-picture and profile viewing helper. |
+| Reddit User Analyser | https://reddit-user-analyser.netlify.app/ | Free | Reddit account activity overview tool. |
+| ExportComments | https://exportcomments.com/ | Freemium | Collects public comments from social platforms/videos. |
+| X/Twitter Advanced Search | https://twitter.com/search-advanced | Free | Native advanced query interface for X/Twitter. |
+| Foller.me | https://foller.me/ | Free | X/Twitter profile and activity analysis. |
+| FollowerAudit | https://www.followeraudit.com/ | Freemium | X/Twitter follower quality analysis. |
+| TweetDeck | https://tweetdeck.twitter.com/ | Free | Multi-column monitoring dashboard for X/Twitter. |
+| Twitonomy | http://www.twitonomy.com/ | Freemium | X/Twitter account and tweet analytics. |
+| Spoonbill | https://spoonbill.io/ | Free | Tracks profile changes on social accounts. |
+| Tweet Topic Explorer | http://tweettopicexplorer.neoformix.com/#n=cyber_sudo | Free | Topic and hashtag exploration for X/Twitter. |
+| Mentionmapp | https://mentionmapp.com/ | Free | Visual network map of X/Twitter interactions. |
+| Sleeping Time | http://sleepingtime.org/ | Free | Estimates likely account activity patterns. |
+| Tinfoleak | https://tinfoleak.com/ | Free | Legacy social metadata analysis utility. |
+| SkypeIPResolver | http://www.skypeipresolver.net/ | Unknown | Historical/legacy resolver; treat with caution and legal review. |
+| Facebook Ad Library | https://www.facebook.com/ads/library/ | Free | Searchable ads and transparency data from Meta. |
+| fb-sleep-stats | https://github.com/sqren/fb-sleep-stats | Free | Open-source social activity timing analysis script. |
+| SowSearch | https://www.sowsearch.info/ | Free | Social web and account search resource. |
+| IntelX Facebook Tools | https://intelx.io/tools?tab=facebook | Freemium | Facebook-focused intelligence pivots. |
+| Lookup-ID | https://lookup-id.com/ | Free | Converts Facebook profile handles to numeric IDs. |
+| twtdata Trends Archive | https://twtdata.com/twitter-trends/ | Free | Historical X/Twitter trend archive lookup. |
