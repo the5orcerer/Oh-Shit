@@ -15,12 +15,9 @@ Tools and references for public social-media analysis and account research.
 | FollowerAudit | https://www.followeraudit.com/ | Freemium | X/Twitter follower quality analysis. |
 | TweetDeck | https://tweetdeck.twitter.com/ | Free | Multi-column monitoring dashboard for X/Twitter. |
 | Twitonomy | http://www.twitonomy.com/ | Freemium | X/Twitter account and tweet analytics. |
-| Spoonbill | https://spoonbill.io/ | Free | Tracks profile changes on social accounts. |
+| IGDataHub | https://igdatahub.com/ | Freemium | Instagram follower-count history charts for the accounts it tracks; full CSV export is paid. |
 | Tweet Topic Explorer | http://tweettopicexplorer.neoformix.com/#n=cyber_sudo | Free | Topic and hashtag exploration for X/Twitter. |
-| Mentionmapp | https://mentionmapp.com/ | Free | Visual network map of X/Twitter interactions. |
-| Sleeping Time | http://sleepingtime.org/ | Free | Estimates likely account activity patterns. |
 | Tinfoleak | https://tinfoleak.com/ | Free | Legacy social metadata analysis utility. |
-| SkypeIPResolver | http://www.skypeipresolver.net/ | Unknown | Historical/legacy resolver; treat with caution and legal review. |
 | Facebook Ad Library | https://www.facebook.com/ads/library/ | Free | Searchable ads and transparency data from Meta. |
 | fb-sleep-stats | https://github.com/sqren/fb-sleep-stats | Free | Open-source social activity timing analysis script. |
 | SowSearch | https://www.sowsearch.info/ | Free | Social web and account search resource. |
