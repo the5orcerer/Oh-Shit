@@ -16,6 +16,7 @@ Tools and references for public social-media analysis and account research.
 | TweetDeck | https://tweetdeck.twitter.com/ | Free | Multi-column monitoring dashboard for X/Twitter. |
 | Twitonomy | http://www.twitonomy.com/ | Freemium | X/Twitter account and tweet analytics. |
 | IGDataHub | https://igdatahub.com/ | Freemium | Instagram follower-count history charts for the accounts it tracks; full CSV export is paid. |
+| TKMetrics | https://tkmetrics.com/ | Freemium | TikTok creator stats reports (average plays, engagement rate, posting days and hours) for the accounts it tracks; influencer-finder contacts are paid. |
 | Tweet Topic Explorer | http://tweettopicexplorer.neoformix.com/#n=cyber_sudo | Free | Topic and hashtag exploration for X/Twitter. |
 | Tinfoleak | https://tinfoleak.com/ | Free | Legacy social metadata analysis utility. |
 | Facebook Ad Library | https://www.facebook.com/ads/library/ | Free | Searchable ads and transparency data from Meta. |
