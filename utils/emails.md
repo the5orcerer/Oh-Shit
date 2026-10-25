@@ -20,3 +20,4 @@ Email verification, enrichment, and pattern-discovery resources.
 | h-supertools Email Validation | https://h-supertools.com/email/email-bulk-validation | Freemium | Bulk validation utility for email lists. |
 | MyEmailVerifier | https://myemailverifier.com/ | Freemium | Bulk and API-based verification service. |
 | Epieos | https://epieos.com/ | Freemium | Email-to-identity OSINT pivot tool. |
+| Opsis | https://useopsis.com/ | Freemium | Finds accounts linked to an email, username or domain across 1000+ sources; use for authorized investigations only. |
