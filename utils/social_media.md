@@ -5,6 +5,7 @@ Tools and references for public social-media analysis and account research.
 | Tool | URL | Access | Notes |
 | --- | --- | --- | --- |
 | Snapchat Map | https://map.snapchat.com/ | Free | Public geospatial view of Snapchat stories where available. |
+| SnapDataHub | https://snapdatahub.com/ | Freemium | Public Snapchat creator lookup with Spotlight stats; free Rising Creators list (handles visible); niche and country influencer search is limited on the free tier. |
 | Instagram User ID Finder | https://tools.codeofaninja.com/find-instagram-user-id | Free | Resolves numeric Instagram account IDs. |
 | Imginn | https://imginn.com/ | Unknown | Third-party Instagram viewer; verify reliability and terms. |
 | InstaDP | https://www.instadp.com/ | Free | Instagram display-picture and profile viewing helper. |
