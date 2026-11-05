@@ -20,6 +20,7 @@ Domain and website intelligence resources for ownership, infrastructure, and tec
 | Visualping | https://visualping.io/ | Freemium | Website change detection and alerts. |
 | crt.sh | http://crt.sh/ | Free | Certificate transparency search for subdomains. |
 | Pentest-Tools Subdomain Finder | https://pentest-tools.com/information-gathering/find-subdomains-of-domain | Freemium | Subdomain enumeration helper. |
+| Profundis | https://profundis.io/ | Freemium | Finds subdomains and links websites through shared IPs, certificates and tracking IDs; API access is paid. |
 | Pentest-Tools Website Scanner | https://pentest-tools.com/website-vulnerability-scanning/website-scanner | Freemium | Surface-level security scanning utility. |
 | SharedCount | https://www.sharedcount.com/ | Freemium | Social engagement count for URLs. |
 | SmallSEOTools Backlink Checker | https://smallseotools.com/backlink-checker/ | Free | Backlink intelligence and competitor analysis. |
